@@ -1,4 +1,5 @@
 ![Computer Store Logo](static/chtb.jpg)
+
 📌 Project Overview
 
 This project is a lightweight, rule-based chatbot for a computer and technology store, built using Flask (Python).
