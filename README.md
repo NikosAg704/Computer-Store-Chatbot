@@ -98,3 +98,55 @@ Educational Flask projects
 Prototyping chatbot logic
 
 Pre-sales product assistance
+
+▶️ How to Run the Chatbot
+
+Follow the steps below to run the chatbot locally:
+
+1. Prerequisites
+
+Make sure you have the following installed:
+
+Python 3.8 or newer
+
+pip (Python package manager)
+
+2. Clone the Repository
+git clone <repository-url>
+cd <repository-folder>
+
+3. Install Dependencies
+
+Install Flask using pip:
+
+pip install flask
+
+4. Run the Application
+
+Start the Flask server by running:
+
+python app.py
+
+
+You should see output indicating that the server is running.
+
+5. Open the Chatbot
+
+Open a web browser and navigate to:
+
+http://127.0.0.1:5000
+
+
+The chatbot interface will load and is ready to use.
+
+6. Using the Chatbot
+
+Type your question in the input field
+
+Press Enter or click Send
+
+Switch language using the language button (EN / GR)
+
+The chatbot will respond based on your input
+
+No predefined questions are shown for advanced topics; responses are triggered only by natural user input.
